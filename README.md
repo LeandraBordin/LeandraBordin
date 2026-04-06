@@ -1,21 +1,22 @@
 # 💫 Sobre mim:
+```java
 public class Leandra extends Desenvolvedora {
-<br>    private String curso = "ADS — IFRS Osório";<br> 
-private String status = "aprendendo todo dia";<br><br>
+    private String curso = "ADS — IFRS Osório";
+    private String status = "aprendendo todo dia";
 
-private String[] stack = {
-<br>"Java", "Spring", "JavaScript"<br>
-};
-<br>
-<br>
-private String[] estudando = {
-<br>        "POO", "Spring Boot", "boas práticas"<br>
-};
-<br>
-<br>
-public String toString() {        
-return "transformando café em código desde o primeiro semestre";<br>}<br>}
+    private String[] stack = {
+        "Java", "Spring", "JavaScript"
+    };
 
+    private String[] estudando = {
+        "POO", "Spring Boot", "boas práticas"
+    };
+
+    public String toString() {
+        return "transformando café em código desde o primeiro semestre";
+    }
+}
+```
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
