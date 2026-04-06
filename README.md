@@ -4,18 +4,18 @@ public class Leandra extends Desenvolvedora {
 private String status = "aprendendo todo dia";<br><br>
 
 private String[] stack = {
-<br>        "Java", "Spring", "JavaScript"<br>    
+<br>"Java", "Spring", "JavaScript" 
 };
 <br>
 <br>
 private String[] estudando = {
-<br>        "POO", "Spring Boot", "boas práticas"<br>    
+<br>        "POO", "Spring Boot", "boas práticas"
 };
 <br>
 <br>
-public String toString() {<br>        
-return "transformando café em código desde o primeiro semestre";<br>    
-}
+public String toString() {        
+return "transformando café em código desde o primeiro semestre"<br>    
+  };
 <br>}
 
 
