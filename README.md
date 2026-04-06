@@ -14,7 +14,7 @@ private String[] estudando = {
 <br>
 <br>
 public String toString() {        
-return "transformando café em código desde o primeiro semestre"<br>};<br>}
+return "transformando café em código desde o primeiro semestre";<br>}<br>}
 
 
 # 💻 Tech Stack:
