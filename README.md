@@ -1,6 +1,23 @@
 
 # 💫 Sobre mim:<br>
-```java<br>public class Leandra extends Desenvolvedora {<br>    private String curso = "ADS — IFRS Osório";<br>    private String status = "aprendendo todo dia";<br><br>    private String[] stack = {<br>        "Java", "Spring", "JavaScript"<br>    };<br><br>    private String[] estudando = {<br>        "POO", "Spring Boot", "boas práticas"<br>    };<br><br>    public String toString() {<br>        return "transformando café em código desde o primeiro semestre";<br>    }<br>}<br>```
+```java
+public class Leandra extends Desenvolvedora {
+    private String curso = "ADS — IFRS Osório";
+    private String status = "aprendendo todo dia";
+
+    private String[] stack = {
+        "Java", "Spring", "JavaScript"
+    };
+
+    private String[] estudando = {
+        "POO", "Spring Boot", "boas práticas"
+    };
+
+    public String toString() {
+        return "transformando café em código desde o primeiro semestre";
+    }
+}
+```
 <br>
 
 
