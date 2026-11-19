@@ -1,24 +1,15 @@
+<br clear="both">
 
-# 💫 Sobre mim:<br>
-```java
-public class Leandra extends Desenvolvedora {
-    private String curso = "ADS — IFRS Osório";
-    private String status = "aprendendo todo dia";
+<h2 data-importer="text" align="center">Olá, eu sou a Leandra Gornicki Bordin 👋</h2>
 
-    private String[] stack = {
-        "Java", "Spring", "JavaScript"
-    };
+###
 
-    private String[] estudando = {
-        "POO", "Spring Boot", "boas práticas"
-    };
+<br clear="both">
 
-    public String toString() {
-        return "transformando café em código desde o primeiro semestre";
-    }
-}
-```
-<br>
+<h4 data-importer="text" align="center">Desenvolvedora Backend com foco em Java e Spring Boot, estudante de Análise e Desenvolvimento de Sistemas no IFRS — campus Osório (2025–2027). Gosto de construir APIs REST organizadas, seguras e bem testadas, explorando desde arquitetura em microsserviços até automação e conteinerização.</h4>
+
+###
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
