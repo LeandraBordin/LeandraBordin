@@ -1,54 +1,30 @@
-<br clear="both">
 
-<h2 data-importer="text" align="center">Olá, eu sou a Leandra Gornicki Bordin 👋</h2>
+# 💫 Sobre mim:<br>
+```java
+public class Leandra extends Desenvolvedora {
+    private String curso = "ADS — IFRS Osório";
+    private String status = "aprendendo todo dia";
 
-###
+    private String[] stack = {
+        "Java", "Spring", "PostgreSQL", "MongoDB"
+    };
 
-<br clear="both">
+    private String[] estudando = {
+        "Spring Boot", "boas práticas"
+    };
 
-<h4 data-importer="text" align="center">Desenvolvedora Backend com foco em Java e Spring Boot, estudante de Análise e Desenvolvimento de Sistemas no IFRS — campus Osório (2025–2027). Gosto de construir APIs REST organizadas, seguras e bem testadas, explorando desde arquitetura em microsserviços até automação e conteinerização.</h4>
+    public String toString() {
+        return "transformando café em código desde o primeiro semestre";
+    }
+}
+```
+<br>
 
-###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
-</div>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhsa3NnZmlwa2hhY2hma3kyMnpwbWI0Nm82a3h5dWE4eXhxeDF4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqzU4AtEo8MAXausme/giphy.gif"  />
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://linkedin.com/in/leandragornickibordin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
+# 💻 Tech Stack:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) [![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)] [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]
+# 📊 GitHub Stats:
+![LeandraBordin's Stats](https://github-readme-stats.vercel.app/api?username=LeandraBordin&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![LeandraBordin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeandraBordin&theme=midnight-purple&hide_border=true)
+![LeandraBordin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandraBordin&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
