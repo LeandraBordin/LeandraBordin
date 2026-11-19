@@ -19,8 +19,6 @@ public class Leandra extends Desenvolvedora {
 }
 ```
 <br>
-###
-
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/LeandraBordin/LeandraBordin/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
